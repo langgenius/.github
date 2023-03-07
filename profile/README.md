@@ -9,7 +9,7 @@ The LangGenius project was created by former Tencent Cloud DevOps team members. 
 
 If you have any questions, suggestions or cooperation intentions, please contact us via:
 
-- Send an email to [contact@langgenius.com](mailto:contact@langgenius.com)
+- Send an email to [contact@langgenius.ai](mailto:contact@langgenius.ai)
 - Submit an Issue or PR on our [GitHub Repo](https://github.com/LangGenius)
 
 We look forward to helping you build more interesting and useful AI applications together!
