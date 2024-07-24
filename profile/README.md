@@ -8,9 +8,13 @@ The LangGenius project was created by former Tencent Cloud DevOps team members. 
 
 **Contact Us**
 
-If you have any questions, suggestions or cooperation intentions, please contact us via:
+- **Dify for enterprise / organizations</br>**
+We provide additional enterprise-centric features. [Schedule a meeting with us](https://cal.com/guchenhe/30min) or [send us an email](mailto:business@dify.ai?subject=[GitHub]Business%20License%20Inquiry) to discuss enterprise needs. </br>
+  > For startups and small businesses using AWS, check out [Dify Premium on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-t22mebxzwjhu6) and deploy it to your own AWS VPC with one-click. It's an affordable AMI offering with the option to create apps with custom logo and branding.
 
-- Send an email to [hello@langgenius.ai](mailto:hello@langgenius.ai)
-- Submit an Issue or PR on our [GitHub Repo](https://github.com/LangGenius)
+- [Github Discussion](https://github.com/langgenius/dify/discussions). Best for: sharing feedback and asking questions.
+- [GitHub Issues](https://github.com/langgenius/dify/issues). Best for: bugs you encounter using Dify.AI, and feature proposals. See our [Contribution Guide](https://github.com/langgenius/dify/blob/main/CONTRIBUTING.md).
+- [Discord](https://discord.gg/FngNHpbcY7). Best for: sharing your applications and hanging out with the community.
+- [Twitter](https://twitter.com/dify_ai). Best for: sharing your applications and hanging out with the community.
 
 We look forward to helping you build more interesting and useful AI applications together!
