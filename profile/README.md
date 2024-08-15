@@ -9,7 +9,7 @@ The LangGenius project was created by former Tencent Cloud DevOps team members. 
 **Contact Us**
 
 - **Dify for enterprise / organizations</br>**
-We provide additional enterprise-centric features. [Schedule a meeting with us](https://cal.com/guchenhe/30min) or [send us an email](mailto:business@dify.ai?subject=[GitHub]Business%20License%20Inquiry) to discuss enterprise needs. </br>
+ <a href="https://udify.app/chat/22L1zSxg6yW1cWQg">Enterprise inquiry</a> </br>
   > For startups and small businesses using AWS, check out [Dify Premium on AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-t22mebxzwjhu6) and deploy it to your own AWS VPC with one-click. It's an affordable AMI offering with the option to create apps with custom logo and branding.
 
 - [Github Discussion](https://github.com/langgenius/dify/discussions). Best for: sharing feedback and asking questions.
